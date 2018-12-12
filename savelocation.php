@@ -199,7 +199,7 @@ function myMap() {
 </script>
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDklqelip14oNsJsBCy0u0Mw3ypeCNxBUc&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=myMap"></script>
 
 
 
